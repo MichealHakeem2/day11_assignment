@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-
 class AppRoutes {
-  // App routes definitions
+  static const String home = '/';
+  static const String detail = '/detail';
 }
